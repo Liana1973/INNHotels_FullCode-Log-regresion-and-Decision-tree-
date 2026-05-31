@@ -171,6 +171,12 @@ The post-pruned Decision Tree provides a strong balance between:
 
 It is the most suitable model for practical hotel operations where transparency and early cancellation detection are important.
 
+## 🚀 Key Takeaways
+
+- Machine Learning can significantly reduce hotel revenue loss from cancellations
+- Feature engineering and EDA were critical for model performance
+- Post-pruning improved generalization and reduced overfitting
+- Recall optimization is more important than accuracy for this business case
 ---
 
 ## 🛠️ Tools & Libraries
