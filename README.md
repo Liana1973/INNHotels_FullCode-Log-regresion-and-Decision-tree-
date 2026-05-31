@@ -1,12 +1,31 @@
 
 # 🏨 INN Hotels Booking Cancellation Prediction
 
-## 📌 Project Overview
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Decision%20Tree-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Type](https://img.shields.io/badge/Type-Classification-orange)
 
-This project analyzes hotel booking data from INN Hotels Group and builds a machine learning model to predict booking cancellations in advance.
+---
 
-A significant number of hotel bookings are canceled or not honored, leading to revenue loss, inefficient room allocation, and operational challenges.  
-The goal of this project is to identify key drivers of cancellations and build a predictive model that helps the hotel reduce financial losses and improve planning.
+## 📊 Project Overview
+
+This project focuses on predicting hotel booking cancellations using Machine Learning.  
+The goal is to help INN Hotels reduce revenue loss by identifying high-risk bookings in advance.
+
+📌 Dataset: 36,275 hotel bookings  
+📌 Problem Type: Binary Classification  
+📌 Target Variable: booking_status (Canceled / Not_Canceled)
+
+---
+
+## 🎯 Business Goal
+
+Reduce cancellation-driven revenue loss by:
+- Identifying risky bookings early
+- Improving pricing strategies
+- Optimizing room allocation
+- Enhancing customer targeting
 
 ---
 
@@ -149,8 +168,3 @@ It is the most suitable model for practical hotel operations where transparency 
 ## 📌 Author
 
 Data Analytics Project — INN Hotels Cancellation Prediction  
-```
-
-
-Just say:
-👉 **“make it portfolio level”**
