@@ -121,6 +121,15 @@ The dataset contains **36,275 hotel bookings** with 19 features describing custo
 - Recall: **0.84**
 - F1-Score: **0.80**
 
+- # 📊 Model Results & Evaluation
+
+## 🧠 Confusion Matrix (Test Set)
+
+The confusion matrix shows how well the model distinguishes between canceled and non-canceled bookings.
+
+👉 Key goal: maximize recall for canceled bookings (class = 1)
+
+
 ---
 
 ## 📌 Key Findings
