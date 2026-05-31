@@ -128,7 +128,16 @@ The dataset contains **36,275 hotel bookings** with 19 features describing custo
 The confusion matrix shows how well the model distinguishes between canceled and non-canceled bookings.
 
 👉 Key goal: maximize recall for canceled bookings (class = 1)
+📊 Recall vs Alpha (Pruning Effect)
 
+This plot shows how pruning strength affects model performance.
+
+👉 Higher alpha = simpler tree
+👉 Optimal alpha selected using F1-score
+------ 
+
+![Confusion Matrix](confusion_matrix.png)
+![Recall vs Alpha](recall_vs_alpha.png)
 
 ---
 
