@@ -147,11 +147,6 @@ This plot shows how pruning strength affects model performance.
 👉 Optimal alpha selected using F1-score
 ------ 
 
-![Confusion Matrix](confusion_matrix.png)
-![Recall vs Alpha](recall_vs_alpha.png)
-
----
-
 ## 📌 Key Findings
 
 - The model generalizes well with acceptable overfitting gap
