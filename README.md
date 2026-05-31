@@ -121,7 +121,18 @@ The dataset contains **36,275 hotel bookings** with 19 features describing custo
 - Recall: **0.84**
 - F1-Score: **0.80**
 
-- # 📊 Model Results & Evaluation
+
+- ## 📊 Model Evaluation Results
+
+### 🧠 Confusion Matrix (Test Set)
+
+![Confusion Matrix](confusion_matrix.png)
+
+---
+
+### 📊 Recall vs Alpha (Pruning Effect)
+
+![Recall vs Alpha](recall_vs_alpha.png)
 
 ## 🧠 Confusion Matrix (Test Set)
 
